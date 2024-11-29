@@ -3,7 +3,13 @@
 
 Effortlessly manage file and folder ownership and permissions with the **TSTP Permission Changer**. This robust, lightweight, multi-threaded tool is designed to save time, ensure accuracy, and provide comprehensive reporting for all operations. Whether you're a system administrator, IT professional, or power user, TSTP Permission Changer offers an intuitive interface and powerful features to streamline your file management tasks.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UY5S_oOxZvM" title="TSTP Permission Changer Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Demo Video
+
+Watch the demo video on YouTube:  
+[![TSTP Permission Changer Demo](https://img.youtube.com/vi/UY5S_oOxZvM/0.jpg)](https://www.youtube.com/watch?v=UY5S_oOxZvM)
+
+Click the thumbnail or the link above to view the video.
+
 
 ---
 
